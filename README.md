@@ -1,6 +1,6 @@
 # Shubham-Kushvanshi-CS-2241140_IILM-GN
 # 💫 About Me:
-🔭 I’m currently working on personal project<br>👯 I’m looking to collaborate<br>🌱 I’m currently learning DevOps<br>💬 Ask me <br>⚡ Fun fact : :)
+🔭 Full Stack Developer <br>👯 V2 Retail<br>🌱 I’m currently learning AI<br>💬 Ask me <br>⚡ Fun fact : :)
 
 
 ## 🌐 Socials:
